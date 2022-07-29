@@ -48,9 +48,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+![image](https://user-images.githubusercontent.com/100245563/181694257-a6641c37-b51a-4d0d-af60-63f5e3ea8ecb.png)
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./Assets/20-react-homework-demo-01.gif)
 
 ## Getting Started
 
