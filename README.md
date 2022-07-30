@@ -49,7 +49,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Mock-Up
 
 ![image](https://user-images.githubusercontent.com/100245563/181694257-a6641c37-b51a-4d0d-af60-63f5e3ea8ecb.png)
-
+Deployment URL: https://sencefs.github.io/react-portfolio
 
 ## Getting Started
 
