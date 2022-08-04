@@ -4,7 +4,7 @@ import PlaceHolderOne from "../../assets/images/placeholder_1_600.jpg";
 import PlaceHolderTwo from "../../assets/images/placeholder_2_600.jpg";
 import PlaceHolderThree from "../../assets/images/placeholder_3_600.jpg";
 import LookUp from "../../assets/images/note-taker.jpg";
-import MakeAppoint from "../../assets/images/weatherdashboard.jpg";
+import MakeAppoint from "../../assets/images/p3page.png";
 import FinalProject from "../../assets/images/project_1.jpg";
 
 function Portfolio() {
